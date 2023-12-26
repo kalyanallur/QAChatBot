@@ -1,0 +1,6 @@
+docx
+PyPDF2
+langchain
+streamlit
+numpy
+-e .
